@@ -48,6 +48,7 @@ modify (col number(10) not null);
 alter table alpha_random 
 drop column line;
 
+select * from salgrade;
 
 
 
